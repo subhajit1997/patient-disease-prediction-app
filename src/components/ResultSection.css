@@ -1,0 +1,56 @@
+/* src/ResultSection.css */
+.result-section {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 50px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: "Arial", sans-serif;
+    position: relative; /* Ensure result section is positioned relative to the particles */
+    z-index: 1; /* Ensure result section is above the particles */
+}
+
+.result-section h2 {
+    color: #333;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+}
+
+.result-content {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.result-subsection {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.result-subsection h3 {
+    width: 100%;
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.result-box {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+}
+
+.result-box-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

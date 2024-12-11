@@ -1,0 +1,68 @@
+{
+    "age": "52",
+    "gender": "male",
+    "bmi": "32.1",
+    "habits": "Smoker (20 cigarettes per day), occasional alcohol consumption, sedentary lifestyle",
+    "medicalHistory": [
+        "Hypertension (diagnosed 8 years ago, controlled with medication)",
+        "Hyperlipidemia (diagnosed 3 years ago, controlled with statins)"
+    ],
+    "familyHistory": "Mother: Breast cancer (diagnosed at age 60)\n- Father: Prostate cancer (diagnosed at age 65)",
+    "previousDiagnoses": [
+        "Stage 1 Lung Cancer (diagnosed 6 months ago, managed with surgery and radiation)"
+    ],
+    "currentSymptoms": "- Persistent cough (worsening over the past 2 months)\n- Shortness of breath (increasing with exertion)\n- Fatigue (more pronounced over the last month)\n- Unexplained weight loss (5 kg in the past 2 months)\n- Chest pain (occasional, especially during deep breaths)",
+    "recentTests": [
+        {
+            "description": "Chest X-ray",
+            "testData": [
+                "Clear lung fields (baseline 6 months ago)",
+                "Mass in left lung (recent finding)"
+            ]
+        },
+        {
+            "description": "CT Scan",
+            "testData": [
+                "No signs of metastasis (baseline)",
+                "Increased size of tumor (recent finding, now 4 cm)"
+            ]
+        },
+        {
+            "description": "Tumor Markers",
+            "testData": [
+                "CEA: 4.2 ng/ml (baseline)",
+                "CEA: 8.7 ng/ml (recent result)",
+                "CYFRA 21-1: 3.5 ng/ml (recent result)"
+            ]
+        },
+        {
+            "description": "Blood Oxygen Saturation",
+            "testData": [
+                "98% (baseline)",
+                "95% (recent test)"
+            ]
+        },
+        {
+            "description": "Blood Pressure",
+            "testData": [
+                "130/85 mmHg",
+                "135/88 mmHg",
+                "140/90 mmHg"
+            ]
+        },
+        {
+            "description": "Complete Blood Count (CBC)",
+            "testData": [
+                "WBC: 5,000 cells/mm3",
+                "WBC: 6,000 cells/mm3 (recent test)",
+                "Hemoglobin: 13.8 g/dL"
+            ]
+        }
+    ],
+    "clinicalNotes": [
+        "Entry 1: May 12, 2024  Chief Complaint: Persistent cough and occasional chest pain. History: Patient reports worsening symptoms over the past 2 months, particularly with increased exertion. Examination: Mild wheezing, slight decrease in breath sounds on the left side. Assessment: Stable post-surgery lung cancer, but new mass detected on recent imaging. Plan: Referred for further evaluation with oncology, considered for chemotherapy, scheduled follow-up in 2 weeks.",
+        "Entry 2: June 1, 2024  Chief Complaint: Shortness of breath and fatigue. History: Patient reports gradual worsening of symptoms, including increased fatigue and weight loss. No fever or night sweats. Examination: Slightly diminished breath sounds in the left lung, no signs of metastasis. Assessment: Suspected progression to stage 2 lung cancer. Plan: Further testing including PET scan to assess metastasis, started on adjuvant chemotherapy regimen.",
+        "Entry 3: June 15, 2024  Chief Complaint: Increasing cough and chest tightness. History: Patient’s symptoms have worsened despite initial treatment. Onset of chest pain and difficulty breathing. Examination: Audible wheezing, decreased breath sounds on the left. Assessment: Possible progression to stage 2 cancer. Plan: Increase chemotherapy regimen, scheduled follow-up in 2 weeks, further imaging and lab tests for response to treatment."
+    ],
+    "otherInfo": "- Smoking history of 20 cigarettes per day for 30 years\n- No family history of lung cancer (aside from the father’s prostate cancer)\n- Patient has been compliant with follow-up and treatment plan so far\n- No known allergies"
+}

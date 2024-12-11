@@ -1,0 +1,68 @@
+/* src/HomePage.css */
+.home-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    position: relative;
+    z-index: 1; /* Ensure home page content is above the particles */
+    min-height: 100vh; /* Ensure the home page covers the full height of the viewport */
+}
+
+.welcome-box {
+    background-color: #ffffff; /* White background */
+    border: 10px solid #eb6500; /* Orange border */
+    padding: 40px; /* Padding inside the box */
+    border-radius: 20px; /* Rounded corners */
+    max-width: 700px; /* Maximum width of the box */
+    margin: auto; /* Center the box horizontally */
+    margin-top: 50px; /* Add margin to the top to bring the box down */
+    box-shadow: 20px 20px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.home-page h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    color: #000000; /* Black text color */
+}
+
+.home-page h2 {
+    font-style: italic;
+    font-size: 24px;
+    font-weight: lighter;
+    padding-bottom: 50px;
+}
+
+.button-container {
+    display: flex;
+    gap: 20px; /* Space between buttons */
+    margin-top: 20px;
+}
+
+.navigate-button,
+.file-upload-label {
+    background-color: #eb6500;
+    color: rgb(255, 255, 255);
+    padding: 20px 30px; /* Increase padding for bigger buttons */
+    border: none;
+    border-radius: 10px; /* Make buttons square with rounded corners */
+    font-size: 18px; /* Increase font size */
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-block;
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.navigate-button:hover,
+.file-upload-label:hover {
+    background-color: #ffffff; /* Darker orange on hover */
+    color: #000000;
+    border: 1px solid #eb6500;
+}
+
+
+.file-upload-input {
+    display: none;
+}

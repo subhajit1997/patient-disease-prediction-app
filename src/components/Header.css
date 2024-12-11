@@ -1,0 +1,59 @@
+/* src/Header.css */
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px; /* Increase padding for larger header */
+    background-color: #ffffff; /* Change to orange color */
+    color: rgb(0, 0, 0);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000; /* Ensure the header is above other content */
+}
+
+.header-logo-title {
+    display: flex;
+    align-items: center; /* Align items horizontally */
+}
+
+.header-logo {
+    width: 60px; /* Adjust the size as needed */
+    height: 60px; /* Adjust the size as needed */
+    margin-right: 10px; /* Space between logo and title */
+}
+
+.header-title {
+    font-size: 32px; /* Increase font size */
+    font-weight: bold;
+}
+
+.header-nav {
+    display: flex;
+    gap: 10px;
+    margin-right: 40px; /* Add margin to the right */
+}
+
+.nav-button {
+    background-color: #eb6500; /* Button background color */
+    font-weight: bold;
+    color: #ffffff; /* Button text color */
+    border-radius: 10px;
+    padding: 10px 20px; /* Added padding to the buttons */
+    cursor: pointer;
+    font-size: 16px; /* Increase font size */
+    transition: all 0.3s ease;
+    text-decoration: none; /* Remove underline */
+}
+
+.nav-button:hover {
+    background-color: #ffffff; /* Darker orange on hover */
+    color: #000000;
+    border: 1px solid #eb6500;
+}
+
+.app-content {
+    margin-top: 60px; /* Push content below the fixed header */
+    padding: 20px;
+}

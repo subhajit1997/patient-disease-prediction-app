@@ -1,0 +1,58 @@
+{
+    "age": "39",
+    "gender": "female",
+    "bmi": "24.5",
+    "habits": "Non-smoker, no alcohol consumption, moderate physical activity",
+    "medicalHistory": [
+        "Hypothyroidism (diagnosed 5 years ago, managed with levothyroxine)"
+    ],
+    "familyHistory": "Mother: Breast cancer (diagnosed at age 50, survived)\n- Paternal grandmother: Ovarian cancer",
+    "previousDiagnoses": [
+        "Stage 1 Invasive Ductal Carcinoma (diagnosed 8 months ago, treated with lumpectomy and radiation)"
+    ],
+    "currentSymptoms": "- New lump in the breast (increased in size over the last month)\n- Mild pain in the breast (persistent)\n- Occasional skin changes around the breast (redness and dimpling)",
+    "recentTests": [
+        {
+            "description": "Mammogram",
+            "testData": [
+                "Clear breast tissue (baseline)",
+                "New mass detected near the lumpectomy site (recent finding)"
+            ]
+        },
+        {
+            "description": "Ultrasound",
+            "testData": [
+                "No suspicious lymph nodes (baseline)",
+                "Enlarged lymph nodes near the breast (recent finding)"
+            ]
+        },
+        {
+            "description": "Hormone Receptor Test",
+            "testData": [
+                "Estrogen receptor positive",
+                "Progesterone receptor positive (baseline)",
+                "Estrogen receptor positive, progesterone receptor negative (recent result)"
+            ]
+        },
+        {
+            "description": "Blood Test",
+            "testData": [
+                "CBC: Normal",
+                "Liver function: Normal"
+            ]
+        },
+        {
+            "description": "Blood Pressure",
+            "testData": [
+                "110/75 mmHg",
+                "112/78 mmHg"
+            ]
+        }
+    ],
+    "clinicalNotes": [
+        "Entry 1: April 5, 2024  Chief Complaint: New lump in the breast and mild pain. History: Patient reports discovering a new lump in the breast, with pain increasing over the past month. No fever or other systemic symptoms. Examination: Lump palpable at the site of previous surgery, mild tenderness. Assessment: Possible recurrence of breast cancer. Plan: Imaging and biopsy of new mass, referral to oncology for further management.",
+        "Entry 2: April 20, 2024  Chief Complaint: Increasing breast pain. History: Patient reports the lump has increased in size and pain is becoming more persistent. No signs of infection or discharge. Examination: Mass palpable, hard, and irregular in shape. Assessment: Likely recurrence of breast cancer at the site of previous surgery. Plan: Surgical biopsy, plan for staging if positive, start chemotherapy.",
+        "Entry 3: May 1, 2024  Chief Complaint: Lump progression and skin changes. History: Patient reports worsening of symptoms, with visible skin changes (redness and dimpling). Examination: Firm mass, enlarged lymph nodes under the arm. Assessment: Progression to stage 2 breast cancer, increased tumor size and lymph node involvement. Plan: Chemotherapy initiation, surgery for lymph node evaluation, follow-up in 2 weeks."
+    ],
+    "otherInfo": "- No history of other cancers\n- No smoking or alcohol use"
+}

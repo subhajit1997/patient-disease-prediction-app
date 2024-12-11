@@ -1,0 +1,79 @@
+{
+    "age": "45",
+    "gender": "female",
+    "bmi": "28.5",
+    "habits": "Non-smoker, occasional alcohol consumption, sedentary lifestyle",
+    "medicalHistory": [
+        " Hypertension (diagnosed 10 years ago, controlled with medication)",
+        " Type 2 Diabetes (diagnosed 5 years ago, controlled with oral hypoglycemics)"
+    ],
+    "familyHistory": "Mother: Rheumatoid Arthritis\n- Father: Coronary Artery Disease",
+    "previousDiagnoses": [
+        "- Mild Asthma (diagnosed 3 years ago)"
+    ],
+    "currentSymptoms": "- Persistent cough (worsening over the past 3 months)\n- Shortness of breath (especially during physical activity)\n- Fatigue (increasing over the past 3 months)\n- Occasional chest tightness (more frequent in the past month)\n- Wheezing (noticed occasionally, especially at night)",
+    "recentTests": [
+        {
+            "description": "ESR",
+            "testData": [
+                "20 mm/hr",
+                "25 mm/hr",
+                "30 mm/hr"
+            ]
+        },
+        {
+            "description": "CRP",
+            "testData": [
+                "5mg/l",
+                "7mg/l",
+                "10mg/l"
+            ]
+        },
+        {
+            "description": "FEV1",
+            "testData": [
+                "80% of predicted",
+                " 75% of predicted",
+                " 70% of predicted"
+            ]
+        },
+        {
+            "description": "Blood Glucose",
+            "testData": [
+                "150mg/dl",
+                "160mg/dl",
+                "170mg/dl"
+            ]
+        },
+        {
+            "description": "Peak Expiratory Flow (PEF)",
+            "testData": [
+                "400 L/min",
+                "380 L/min",
+                "350 L/min"
+            ]
+        },
+        {
+            "description": "Oxygen Saturation",
+            "testData": [
+                "98%",
+                "97%",
+                "96%"
+            ]
+        },
+        {
+            "description": "Blood Pressure",
+            "testData": [
+                "130/85 mmHg",
+                "135/88 mmHg",
+                "140/90 mmHg"
+            ]
+        }
+    ],
+    "clinicalNotes": [
+        "Entry 1: January 15 2023  Chief Complaint: Shortness of breath and wheezing. History: Patient reports increased frequency of asthma attacks over the past two weeks, particularly at night. Using rescue inhaler 4-5 times daily. Examination: Audible wheezing, decreased breath sounds bilaterally. Assessment: Severe asthma exacerbation. Plan: Prescribed oral corticosteroids for 5 days, increased dosage of inhaled corticosteroids, advised use of peak flow meter, follow-up in 2 weeks.",
+        "Entry 2: February 10, 2023  Chief Complaint: Persistent cough and chest tightness. History: Patient reports moderate improvement but still experiencing daily symptoms. Using rescue inhaler 2-3 times daily. Examination: Mild wheezing, no signs of respiratory distress. Assessment: Partially controlled severe asthma. Plan: Continued inhaled corticosteroids, added long-acting beta-agonist, referred to pulmonologist for further evaluation, follow-up in 1 month.",
+        "Entry 3: March 15 2023  Chief Complaint: Improved symptoms but occasional shortness of breath. History: Patient reports significant improvement, using rescue inhaler once daily. No nighttime awakenings. Examination: Clear lung sounds, no wheezing. Assessment: Well-controlled severe asthma. Plan: Continue current medication regimen, scheduled spirometry test, follow-up in 3 months or sooner if symptoms worsen."
+    ],
+    "otherInfo": "- Recent increase in use of rescue inhaler (from once a week to almost daily)\n- No recent infections or respiratory illnesses\n- No recent changes in medication\n- No known allergies"
+}
